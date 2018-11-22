@@ -61,3 +61,8 @@ p {
 img {
     max-width:95%;
 }
+
+embed{
+    width: 100%;
+    Height: 750px;
+}
