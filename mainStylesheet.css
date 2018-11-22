@@ -29,7 +29,14 @@ ul {
 
 li {
     float: left;
+}
+
+.thirds{
     width: 33.33%;
+}
+
+.halfs{
+    width:50%
 }
 
 li a {
